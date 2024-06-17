@@ -1,4 +1,4 @@
-package com.example.feipnotifications.ui.theme
+package com.example.feipnotifications.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

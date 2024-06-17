@@ -88,6 +88,9 @@ dependencies {
 
     //navigation
     implementation(libs.androidx.navigation)
+
+    //accompanist
+    implementation(libs.google.accompanist.swiperefresh)
 }
 
 kapt{
